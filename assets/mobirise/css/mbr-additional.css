@@ -747,63 +747,85 @@ a {
 .cid-sFF3eJNZDT .icon-text {
   color: #8e8d8a;
 }
-.cid-tB2CK7JI6Q {
+.cid-tB9qHdRKpX {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #353535;
 }
-.cid-tB2CK7JI6Q .mbr-fallback-image.disabled {
-  display: none;
+.cid-tB9qHdRKpX .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
 }
-.cid-tB2CK7JI6Q .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tB9qHdRKpX .icon-box {
+  background: #353535;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.cid-tB2CK7JI6Q .nav-tabs .nav-item.open .nav-link:focus,
-.cid-tB2CK7JI6Q .nav-tabs .nav-link.active:focus {
-  outline: none;
+.cid-tB9qHdRKpX .mbr-iconfont {
+  font-size: 2rem;
+  color: #ffffff;
 }
-.cid-tB2CK7JI6Q .nav-tabs {
-  flex-wrap: wrap;
-  border-bottom: 1px solid #31ff00;
-}
-@media (max-width: 767px) {
-  .cid-tB2CK7JI6Q .nav-item {
-    width: 100%;
-    margin: 0;
+@media (max-width: 991px) {
+  .cid-tB9qHdRKpX .card {
+    margin-bottom: 2rem;
+  }
+  .cid-tB9qHdRKpX .card-wrapper {
+    margin-bottom: 2rem;
   }
 }
-.cid-tB2CK7JI6Q .nav-tabs .nav-link {
-  transition: all .5s;
-  border: none;
-  border-bottom: 3px solid transparent;
-  border-radius: 0 !important;
-}
-.cid-tB2CK7JI6Q .nav-tabs .nav-link:not(.active) {
+.cid-tB9qHdRKpX .card-title,
+.cid-tB9qHdRKpX .card-box {
   color: #000000;
 }
-.cid-tB2CK7JI6Q .nav-tabs .nav-item {
-  margin-right: 1.5rem;
+.cid-tB9qHdRKpX .icon-text {
+  color: #8e8d8a;
 }
-.cid-tB2CK7JI6Q .nav-link,
-.cid-tB2CK7JI6Q .nav-link.active {
-  padding: 1rem 0;
-  background-color: transparent;
+.cid-tB9s91e0G9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #353535;
 }
-.cid-tB2CK7JI6Q .nav-tabs .nav-link.active {
-  color: #31ff00;
-  border-bottom: 3px solid #31ff00;
+.cid-tB9s91e0G9 .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
 }
-.cid-tB2CK7JI6Q H4 {
-  text-align: center;
+.cid-tB9s91e0G9 .icon-box {
+  background: #353535;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.cid-tB2CK7JI6Q H3 {
-  text-align: center;
+.cid-tB9s91e0G9 .mbr-iconfont {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tB9s91e0G9 .card {
+    margin-bottom: 2rem;
+  }
+  .cid-tB9s91e0G9 .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tB9s91e0G9 .card-title,
+.cid-tB9s91e0G9 .card-box {
+  color: #000000;
+}
+.cid-tB9s91e0G9 .icon-text {
+  color: #8e8d8a;
 }
 .cid-tB2Fr41UH1 {
   padding-top: 5rem;
